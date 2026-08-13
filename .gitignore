@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Local dev server (not needed for GitHub Pages)
+server.js
+package.json
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.suo
+*.user
+
+# Raw source files (not needed for website)
+MKT205_final_data.txt
+MKT205_rewritten.docx
