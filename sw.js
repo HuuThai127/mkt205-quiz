@@ -1,12 +1,12 @@
 const CACHE_NAME = 'mkt205-cache-v1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/script.js',
-  '/questions.js',
-  '/manifest.json',
-  '/icon.svg'
+  './',
+  './index.html',
+  './style.css',
+  './script.js',
+  './questions.js',
+  './manifest.json',
+  './icon.svg'
 ];
 
 // Install Event - Precache assets
