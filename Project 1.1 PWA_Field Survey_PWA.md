@@ -8,10 +8,9 @@
 
 ## 1. GENERAL INFORMATION & DELIVERABLE LINKS
 * **Team Members:**
-  1. Hữu Thái — Student ID: [Mã Sinh Viên Của Bạn] — Role: Fullstack Developer — Contribution: 100%
+  1. Hữu Thái — Student ID: 23IT.EB091 — Role: Fullstack Developer — Contribution: 100%
 * **🔗 Live Demo URL:** [https://huuthai127.github.io/mkt205-quiz/](https://huuthai127.github.io/mkt205-quiz/)
 * **💻 GitHub Repository:** [https://github.com/HuuThai127/mkt205-quiz](https://github.com/HuuThai127/mkt205-quiz)
-* **🎥 Video Demo (Optional):** [Cập nhật link video nếu có, nếu không có thể xóa dòng này]
 
 ---
 
@@ -39,7 +38,7 @@
 ---
 
 ## 4. EMPIRICAL EVIDENCE & SCREENSHOTS
-*(*Chèn 3-4 ảnh chụp màn hình ứng dụng tại đây: (1) Màn hình chính Dashboard, (2) Màn hình lúc cài đặt Add to Home screen, (3) Giao diện khi tắt mạng (Offline), (4) Màn hình làm Quiz.*)*
+*(*Dưới đây là các ảnh chụp màn hình ứng dụng đang hoạt động thực tế trên thiết bị di động: (1) Màn hình chính Dashboard tổng quan, (2) Giao diện làm bài thi trắc nghiệm ngẫu nhiên, (3) Giao diện tra cứu câu hỏi nhanh.*)*
 
 ![Dashboard - Màn hình chính](./dashboard.jpg)
 
