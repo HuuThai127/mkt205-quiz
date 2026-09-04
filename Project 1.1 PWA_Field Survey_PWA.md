@@ -41,8 +41,11 @@
 ## 4. EMPIRICAL EVIDENCE & SCREENSHOTS
 *(*Chèn 3-4 ảnh chụp màn hình ứng dụng tại đây: (1) Màn hình chính Dashboard, (2) Màn hình lúc cài đặt Add to Home screen, (3) Giao diện khi tắt mạng (Offline), (4) Màn hình làm Quiz.*)*
 
-![Dashboard](link-anh-1)
-![Add to Home Screen](link-anh-2)
+![Dashboard - Màn hình chính](./dashboard.jpg)
+
+![Giao diện làm Quiz Trắc nghiệm](./quiz.jpg)
+
+![Giao diện tìm kiếm (Search)](./search.jpg)
 
 ---
 
